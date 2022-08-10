@@ -9,11 +9,11 @@
  * @version     0.2ab
  * @license     Beerware @ http://people.freebsd.org/~phk/
  *
- * @category    logger
+ * @category    database
  *
  * @since       2022.08.10
  *
- * @description A logger class which creates logs when an exception is thrown.
+ * @description A database class for PHP-MySQL which uses the PDO extension.
  * @git         https://github.com/wickyaswal/PHP-MySQL-PDO-Database-Class
  *
  * @forked      Curated by Sebastian Costiug (sebastian@overbyte.dev)
