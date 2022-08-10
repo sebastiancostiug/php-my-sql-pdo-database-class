@@ -374,10 +374,10 @@ class DB
         $exception .= '<br /> You can find the error back in the log.';
 
         if (!empty($sql)) {
-            # Add the Raw SQL to the Log
+            // Add the Raw SQL to the Log
             $message .= "\r\nRaw SQL : " . $sql;
         }
-        # Write into log
+        // Write into log
         $this->_log->write($message);
 
         return $exception;
