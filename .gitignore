@@ -1,0 +1,34 @@
+# Metadata
+.project
+.vscode
+.serenata
+nbproject
+
+# OS generated files
+._*
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Files
+.remote-sync.json
+composer.lock
+config.php
+*.sqlite
+ruleset.xml
+
+# Folders
+/assets/*
+/uploads/*
+/vendor/*
+
+# Uploads, keep default profile image
+!uploads/avatars
+!uploads/avatars/default-profile.png
+
+# Keep .gitkeep files
+!/**/.gitkeep
