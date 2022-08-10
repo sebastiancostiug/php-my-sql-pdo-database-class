@@ -315,4 +315,4 @@ $persons = $person->all();
 
 ## Copyright and license
 
-#### Code released under Beerware
+#### Code released under Beer-ware
