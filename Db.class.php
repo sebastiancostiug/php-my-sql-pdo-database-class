@@ -5,9 +5,9 @@
  *
  * @subpackage  SB
  * @author      Vivek Wicky Aswal. (https://twitter.com/#!/VivekWickyAswal)
- * @copyright   Beerware @ http://people.freebsd.org/~phk/
+ * @copyright   Beer-ware @ http://people.freebsd.org/~phk/
  * @version     0.2ab
- * @license     Beerware @ http://people.freebsd.org/~phk/
+ * @license     Beer-ware @ http://people.freebsd.org/~phk/
  *
  * @category    database
  *
